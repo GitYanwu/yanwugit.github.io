@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>CSS2</title>
-    <url>/yanwugit.github.io/2020/08/07/CSS2/</url>
-    <content><![CDATA[<p>eeeeeeeeeeeeeeeeeeeeeeee<br> <a id="more"></a></p>
-]]></content>
-      <categories>
-        <category>css</category>
-      </categories>
-      <tags>
-        <tag>22222</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CSS1</title>
     <url>/yanwugit.github.io/2020/05/07/CSS1/</url>
     <content><![CDATA[<p>Git是一个由林纳斯·托瓦兹为了更好地管理linux内核开发而创立的分布式版本控制，软件配置管理软件。需要注意的是和GNU Interactive Tools，一个类似Norton Commander界面的文件管理器相区分。Git最初的开发动力来自于BitKeeper和Monotone。Git最初只是作为一个可以被其他前端比如Cogito或StGIT包装的后端而开发的。不过，后来Git内核已经成熟到可以独立地用作版本控制。</p>
@@ -34,6 +22,18 @@ $ git config --global user.email “your_registered_github_Email” </code></pre
       </categories>
       <tags>
         <tag>11111</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CSS2</title>
+    <url>/yanwugit.github.io/2020/08/07/CSS2/</url>
+    <content><![CDATA[<p>eeeeeeeeeeeeeeeeeeeeeeee<br> <a id="more"></a></p>
+]]></content>
+      <categories>
+        <category>css</category>
+      </categories>
+      <tags>
+        <tag>22222</tag>
       </tags>
   </entry>
   <entry>
