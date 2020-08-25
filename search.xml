@@ -89,19 +89,19 @@ $ git config --global user.email “your_registered_github_Email” </code></pre
       </tags>
   </entry>
   <entry>
-    <title>js1</title>
-    <url>/yanwugit.github.io/2001/06/08/wetwetwt/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>js</category>
-      </categories>
-  </entry>
-  <entry>
     <title>vue1</title>
     <url>/yanwugit.github.io/2007/05/08/vue1/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>vue</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>js1</title>
+    <url>/yanwugit.github.io/2001/06/08/wetwetwt/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>js</category>
       </categories>
   </entry>
   <entry>
